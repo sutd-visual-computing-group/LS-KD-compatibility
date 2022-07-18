@@ -84,12 +84,17 @@ All pretrained image classification, fine-graind image clasification, neural mac
 ## Citation
 
 ```markdown
-@InProceedings{Chandrasegaran_2022_ICML,
+@InProceedings{pmlr-v162-chandrasegaran22a,
     author    = {Chandrasegaran, Keshigeyan and Tran, Ngoc-Trung and Zhao, Yunqing and Cheung, Ngai-Man},
     title     = {Revisiting Label Smoothing and Knowledge Distillation Compatibility: What was Missing?},
     booktitle = {Proceedings of the 39th International Conference on Machine Learning},
-    month     = {July},
+    pages     = {2890-2916},
     year      = {2022},
+    editor    = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+    volume    = {162},
+    series    = {Proceedings of Machine Learning Research},
+    month     = {17-23 Jul},
+    publisher = {PMLR},
 }
 ```
 
