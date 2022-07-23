@@ -49,7 +49,7 @@ This codebase is written in Pytorch. It is clearly documented with bash file exe
 
 **Compact Student Distillation :** Clear steps on how to run and reproduce our results for Compact Student distillation LS and KD (Table 4, B.3) are provided in [src/image_classification/README.md](src/image_classification/README.md). We support Multi-GPU training and mixed-precision training.
 
-**Penutlimate Layer Visualization :** Refer [src/visualization/alpha-LS- KD imagenet centroids.py](src/visualization/alpha-LS- KD imagenet centroids.py) for Penultimate layer visualization code to reproduce all visualizations in the main paper and Supplementary (Figures 1, A.1, A.2). The code is clearly documented.
+**Penutlimate Layer Visualization :** Refer [src/visualization/alpha-LS-KD_imagenet_centroids.py](src/visualization/alpha-LS-KD_imagenet_centroids.py) for Penultimate layer visualization code to reproduce all visualizations in the main paper and Supplementary (Figures 1, A.1, A.2). The code is clearly documented.
 
 
 ## ImageNet-1K KD Results
