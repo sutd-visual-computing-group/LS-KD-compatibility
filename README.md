@@ -19,11 +19,11 @@ This work investigates the compatibility between label smoothing (LS) and knowle
 
 **A rule of thumb for practitioners.** We suggest to use an LS-trained teacher with a low-temperature transfer (i.e. *T* = 1) to render high performance students.
 
-![](./assets/legend.png)
+![](./assets/legend.jpg)
 
-![](./assets/teacher.png)
+![](./assets/teacher.jpg)
 
-![](./assets/student.png)
+![](./assets/student.jpg)
 
 
 ## About the code
