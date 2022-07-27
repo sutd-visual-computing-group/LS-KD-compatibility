@@ -19,12 +19,6 @@ This work investigates the compatibility between label smoothing (LS) and knowle
 
 **A rule of thumb for practitioners.** We suggest to use an LS-trained teacher with a low-temperature transfer (i.e. *T* = 1) to render high performance students.
 
-![](./assets/legend.jpg)
-
-![](./assets/teacher.jpg)
-
-![](./assets/student.jpg)
-
 
 ## About the code
 This codebase is written in Pytorch. It is clearly documented with bash file execution points exposing all required arguments and hyper-parameters. We also provide Docker container details to run our code. 
