@@ -67,6 +67,7 @@ This codebase is written in Pytorch. It is clearly documented with bash file exe
 | Student : ResNet-50       | T = 3         | 75.488 / 92.670 | 75.790 / 93.006 |
 | Student : ResNet-50       | T = 64        | 74.278 / 92.410 | 74.566 / 92.596 |
 
+Results produced with 20.12-py3 ([Nvidia Pytorch Docker container](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel_20-12.html#rel_20-12)) + Pytorch LTS 1.8.2 + CUDA11.1
 
 ## Pretrained Models
 
