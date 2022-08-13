@@ -17,7 +17,7 @@ Singapore University of Technology and Design (SUTD)<br/>
 
 This work investigates the compatibility between label smoothing (LS) and knowledge distillation (KD). Contemporary findings addressing this thesis statement take dichotomous standpoints: Muller et al. (2019); Shen et al. (2021). Critically, there is no effort to understand and resolve these contradictory findings, leaving the primal question — to smooth or not to smooth a teacher network? — unanswered. The main contributions of our work are the discovery, analysis and validation of systematic diffusion as the missing concept which is instrumental in understanding and resolving these contradictory findings. This systematic diffusion essentially curtails the benefits of distilling from an LS-trained teacher, thereby rendering KD at increased temperatures ineffective. Our discovery is comprehensively supported by large-scale experiments, analyses and case studies including image classification, neural machine translation and compact student distillation tasks spanning across multiple datasets and teacher-student architectures. Based on our analysis, <em>we suggest practitioners to use an LS-trained teacher with a low-temperature transfer to achieve high performance students.</em>
 
-**A rule of thumb for practitioners.** We suggest to use an LS-trained teacher with a low-temperature transfer (i.e. *T* = 1) to render high performance students.
+> **A rule of thumb for practitioners.** We suggest to use an LS-trained teacher with a low-temperature transfer (i.e. *T* = 1) to render high performance students.
 
 
 ## About the code
