@@ -71,7 +71,7 @@ Results produced with 20.12-py3 ([Nvidia Pytorch Docker container](https://docs.
 
 ## Pretrained Models
 
-All pretrained image classification, fine-graind image clasification, neural machine translation and compct student distillation models are available [here](https://drive.google.com/drive/folders/1GwqXRVYBpKGolNh2OLEzWUdOHx2XQ6G2?usp=sharing)
+All pretrained image classification, fine-graind image clasification, neural machine translation and compact student distillation models are available [here](https://drive.google.com/drive/folders/1GwqXRVYBpKGolNh2OLEzWUdOHx2XQ6G2?usp=sharing)
 
 
 
